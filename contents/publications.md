@@ -1,16 +1,25 @@
-#### Submitted
-
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q. Niu. LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>Rej :)</strong> [[Code]](https://github.com/senli1073/LaNCor)
-
 #### Published
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- Zhuocheng Zou, <strong>Xikun Hu*</strong>, Ping Zhong* (2025). Active Object Detection for UAV Remote Sensing via Behavior Cloning and Enhanced Q-Network With Shallow Features. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/tgrs.2025.3563486)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- Wenlin Liu, <strong>Xikun Hu*<strong>, Yu Liu, Ping Zhong (2025). MSP-O: A Two-Stage Mask Pretraining Method With Object Focus for Remote Sensing Object Detection. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/tgrs.2025.3546222)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- <strong>Xikun Hu*<strong>, Ya Jiang, Xiaoyan Xia, Chen Chen, Wenlin Liu, Pengcheng Wan, Kangcheng Bin, Ping Zhong (2025). UAV-StrawFire: A visible and infrared dataset for real-time straw-fire monitoring with deep learning and image fusion. <strong>International Journal of Applied Earth Observation and Geoinformation</strong>. [[Paper]](https://doi.org/10.1016/j.jag.2025.104586)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- <strong>Xikun Hu<strong>; Wenlin Liu; Hao Wen; Ka-Veng Yuen; Tian Jin; Alberto Costa Nogueira Junior; Ping Zhong* (2024). AF-Net: An Active Fire Detection Model Using Improved Object-Contextual Representations on Unbalanced UAV Datasets. <strong>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/jstars.2024.3406767)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- Hao Wen; <strong>Xikun Hu*<strong>; Ping Zhong* (2024). DSRNet: Diagonal Subsampling Reconstruction Network for Hyperspectral Anomaly Detection. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/tgrs.2024.3417326)
 
+- Yu Zhang; Zhiqiang Gong; Wenlin Liu; Hao Wen; Pengcheng Wan; Jiahao Qi; <strong>Xikun Hu*<strong>; Ping Zhong* (2024). Empowering Physical Attacks With Jacobian Matrix Regularization Against ViT-Based Detectors in UAV Remote Sensing Images. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/tgrs.2024.3416685)
+
+- <strong>Xikun Hu<strong>; Hao Wen; Puzhao Zhang; Ka-Veng Yuen; Ping Zhong* (2024). Near Real-Time Burned Area Progression Mapping With Multispectral Data Using Ensemble Learning. <strong>IEEE Geoscience and Remote Sensing Letters</strong>. [[Paper]](https://doi.org/10.1109/lgrs.2024.3412173)
+
+- Hao Wen; <strong>Xikun Hu*<strong>; Ping Zhong (2024). Detecting rice straw burning based on infrared and visible information fusion with UAV remote sensing. <strong>Computers and Electronics in Agriculture</strong>. [[Paper]](https://doi.org/10.1016/j.compag.2024.109078)
+
+- <strong>Xikun Hu<strong>, Puzhao Zhang, Yifang Ban*, Maryam Rahnemoonfar (2023). GAN-based SAR and optical image translation for wildfire impact assessment using multi-source remote sensing data. <strong>Remote Sensing of Environment</strong>. [[Paper]](https://doi.org/10.1016/j.rse.2023.113522)
+
+- <strong>Xikun Hu<strong>, Puzhao Zhang, Yifang Ban* (2023). Large-scale burn severity mapping in multispectral imagery using deep semantic segmentation models. <strong>ISPRS Journal of Photogrammetry and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1016/j.isprsjprs.2022.12.026)
+
+- <strong>Xikun Hu<strong>, Yifang Ban*, Andrea Nascetti (2021). Sentinel-2 MSI data for active fire detection in major fire-prone biomes: A multi-criteria approach. <strong>International Journal of Applied Earth Observation and Geoinformation</strong>. [[Paper]](https://doi.org/10.1016/j.jag.2021.102347)
+
+- <strong>Xikun Hu<strong>, Yifang Ban*, Andrea Nascetti (2021). Uni-temporal multispectral imagery for burned area mapping with deep learning. <strong>Remote Sensing</strong>. [[Paper]](https://doi.org/10.3390/rs13081509)
